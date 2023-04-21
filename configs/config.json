@@ -1,0 +1,26 @@
+{
+  "INPUTS": {
+    "TRAIN_PATH": [
+      "input/case_study_data.csv"
+    ],
+    "SEPARATOR": ",",
+    "DECIMAL": "TODO",
+    "ENCODING": "utf-8",
+    "FLOAT_PRECISION": "TODO",
+    "INDEX_COLUMNS": [
+      "Order ID"
+    ],
+    "DATE_COLUMNS": [
+      "Order Date"
+    ],
+    "COLUMNS_WITH_NAN_VALUES": [
+      "Profit"
+    ],
+    "DTYPE": {
+      "Sales": "float64",
+      "Quantity": "int64",
+      "Discount": "float64",
+      "Profit": "float64"
+    }
+  }
+}
