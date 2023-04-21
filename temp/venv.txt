@@ -3,3 +3,7 @@ Set-ExecutionPolicy Unrestricted -Scope Process
 .\.venv\Scripts\activate
 Linux: source .\.venv\Scripts\activate
 pip list
+
+# mito
+python -m jupyter nbextension enable --py --user mitosheet
+jupyter nbextension enable mitosheet --user --py
