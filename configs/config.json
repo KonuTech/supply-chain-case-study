@@ -22,5 +22,29 @@
       "Discount": "float64",
       "Profit": "float64"
     }
-  }
+  },
+  "X_ORDER": [
+    "Furniture",
+    "Office Supplies",
+    "Technology"
+  ],
+  "HUE_ORDER": [
+    "Furniture-Bookcases",
+    "Furniture-Chairs",
+    "Furniture-Furnishings",
+    "Furniture-Tables",
+    "Office Supplies-Appliances",
+    "Office Supplies-Art",
+    "Office Supplies-Binders",
+    "Office Supplies-Envelopes",
+    "Office Supplies-Fasteners",
+    "Office Supplies-Labels",
+    "Office Supplies-Paper",
+    "Office Supplies-Storage",
+    "Office Supplies-Supplies",
+    "Technology-Accessories",
+    "Technology-Copiers",
+    "Technology-Machines",
+    "Technology-Phones"
+  ]
 }
