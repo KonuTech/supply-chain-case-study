@@ -46,5 +46,11 @@
     "Technology-Copiers",
     "Technology-Machines",
     "Technology-Phones"
+  ],
+  "COL_ORDER": [
+    "West",
+    "Central",
+    "East",
+    "South"
   ]
 }
